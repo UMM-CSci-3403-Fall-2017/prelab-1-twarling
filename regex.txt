@@ -1,0 +1,9 @@
+Regex 0: 
+([A-Z]\w+), (\w+)
+
+Regex 1:
+([A-Z]\w+). My favorite sandwich is (\w+)
+
+Regex 2:
+sandwich with ([\w]\S+)\s(\w+ \w+)
+
